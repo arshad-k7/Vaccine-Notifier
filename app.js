@@ -255,7 +255,7 @@ async function notifyMe(validSlots, email) {
    }
    html+=`</tbody>`;
 html+=`</table>`;
-html+=`<a href="https://vaccine-info-2021.herokuapp.com/unsubscribe">Click here to unsubscribe</a>`;
+
 
 
 
